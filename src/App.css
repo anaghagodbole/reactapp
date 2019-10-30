@@ -1,0 +1,18 @@
+.App {
+  width: 55%;
+  max-width: 330px;
+  margin:auto;
+  padding: 15px;
+  height:100%;
+ 
+}
+
+
+
+
+.App > .actions {
+  width: 100%;
+  padding: 10px 5px;
+  margin: auto;
+  text-align: center;
+}
